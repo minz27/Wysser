@@ -1,0 +1,8 @@
+/home/cgi/StackRoute/Product/boilerplate/driver-dashboard-service/src/main/java/com/stackroute/driverdashboardservice/DriverDashboardServiceApplication.java
+/home/cgi/StackRoute/Product/boilerplate/driver-dashboard-service/src/main/java/com/stackroute/driverdashboardservice/config/WebConfig.java
+/home/cgi/StackRoute/Product/boilerplate/driver-dashboard-service/src/main/java/com/stackroute/driverdashboardservice/domain/DeliveryStop.java
+/home/cgi/StackRoute/Product/boilerplate/driver-dashboard-service/src/main/java/com/stackroute/driverdashboardservice/controller/DashboardController.java
+/home/cgi/StackRoute/Product/boilerplate/driver-dashboard-service/src/main/java/com/stackroute/driverdashboardservice/service/DeliveryServiceImpl.java
+/home/cgi/StackRoute/Product/boilerplate/driver-dashboard-service/src/main/java/com/stackroute/driverdashboardservice/domain/Vehicle.java
+/home/cgi/StackRoute/Product/boilerplate/driver-dashboard-service/src/main/java/com/stackroute/driverdashboardservice/service/DeliveryService.java
+/home/cgi/StackRoute/Product/boilerplate/driver-dashboard-service/src/main/java/com/stackroute/driverdashboardservice/domain/DeliveryRoute.java

@@ -1,0 +1,12 @@
+/home/cgi/StackRoute/Product/boilerplate/retailer-profile-service/src/main/java/com/stackroute/config/WebConfig.java
+/home/cgi/StackRoute/Product/boilerplate/retailer-profile-service/src/main/java/com/stackroute/service/VehicleCompanyService.java
+/home/cgi/StackRoute/Product/boilerplate/retailer-profile-service/src/main/java/com/stackroute/controller/RetailerController.java
+/home/cgi/StackRoute/Product/boilerplate/retailer-profile-service/src/main/java/com/stackroute/repo/RetailerProfileRepository.java
+/home/cgi/StackRoute/Product/boilerplate/retailer-profile-service/src/main/java/com/stackroute/service/RetailerServices.java
+/home/cgi/StackRoute/Product/boilerplate/retailer-profile-service/src/main/java/com/stackroute/domain/VehicleCompanyProfile.java
+/home/cgi/StackRoute/Product/boilerplate/retailer-profile-service/src/main/java/com/stackroute/jwtSecurity/JwtFilter.java
+/home/cgi/StackRoute/Product/boilerplate/retailer-profile-service/src/main/java/com/stackroute/controller/VehicleController.java
+/home/cgi/StackRoute/Product/boilerplate/retailer-profile-service/src/main/java/com/stackroute/service/RetailerServiceImpl.java
+/home/cgi/StackRoute/Product/boilerplate/retailer-profile-service/src/main/java/com/stackroute/repo/VehicleCompanyRepository.java
+/home/cgi/StackRoute/Product/boilerplate/retailer-profile-service/src/main/java/com/stackroute/WysserProfileApplication.java
+/home/cgi/StackRoute/Product/boilerplate/retailer-profile-service/src/main/java/com/stackroute/domain/RetailerProfile.java

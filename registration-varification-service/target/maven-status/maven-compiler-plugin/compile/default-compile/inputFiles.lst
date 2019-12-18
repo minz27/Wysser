@@ -1,0 +1,8 @@
+/home/cgi/StackRoute/Product/boilerplate/registration-varification-service/src/main/java/com/stackroute/bookmydriver/RetailerRegistrationApplication.java
+/home/cgi/StackRoute/Product/boilerplate/registration-varification-service/src/main/java/com/stackroute/bookmydriver/domain/User.java
+/home/cgi/StackRoute/Product/boilerplate/registration-varification-service/src/main/java/com/stackroute/bookmydriver/controller/RegisterController.java
+/home/cgi/StackRoute/Product/boilerplate/registration-varification-service/src/main/java/com/stackroute/bookmydriver/config/WebConfig.java
+/home/cgi/StackRoute/Product/boilerplate/registration-varification-service/src/main/java/com/stackroute/bookmydriver/service/EmailService.java
+/home/cgi/StackRoute/Product/boilerplate/registration-varification-service/src/main/java/com/stackroute/bookmydriver/security/SecurityConfiguration.java
+/home/cgi/StackRoute/Product/boilerplate/registration-varification-service/src/main/java/com/stackroute/bookmydriver/repository/UserRepository.java
+/home/cgi/StackRoute/Product/boilerplate/registration-varification-service/src/main/java/com/stackroute/bookmydriver/service/UserService.java

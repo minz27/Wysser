@@ -1,0 +1,12 @@
+com/stackroute/repo/VehicleCompanyRepository.class
+com/stackroute/WysserProfileApplication.class
+com/stackroute/jwtSecurity/JwtFilter.class
+com/stackroute/controller/RetailerController.class
+com/stackroute/domain/RetailerProfile.class
+com/stackroute/repo/RetailerProfileRepository.class
+com/stackroute/config/WebConfig.class
+com/stackroute/controller/VehicleController.class
+com/stackroute/domain/VehicleCompanyProfile.class
+com/stackroute/service/RetailerServices.class
+com/stackroute/service/VehicleCompanyService.class
+com/stackroute/service/RetailerServiceImpl.class

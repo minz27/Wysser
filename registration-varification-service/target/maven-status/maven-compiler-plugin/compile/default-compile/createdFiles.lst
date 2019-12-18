@@ -1,0 +1,8 @@
+com/stackroute/bookmydriver/controller/RegisterController.class
+com/stackroute/bookmydriver/security/SecurityConfiguration.class
+com/stackroute/bookmydriver/service/EmailService.class
+com/stackroute/bookmydriver/domain/User.class
+com/stackroute/bookmydriver/RetailerRegistrationApplication.class
+com/stackroute/bookmydriver/config/WebConfig.class
+com/stackroute/bookmydriver/service/UserService.class
+com/stackroute/bookmydriver/repository/UserRepository.class
